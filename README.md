@@ -28,5 +28,16 @@ Since then, I fell in love with the world of development, and continued to deepe
   + <a href="https://github.com/ToryOstr/travel.git">Watch the GitHub repository<a/>
 
 ***
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ToryOstr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### My stats
+<div align="center">
+<img float="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toryostr&layout=compact" />
+<img width="30%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ToryOstr&layout=compact"/>
+<img float="right" width="30%" src="https://github-readme-stats.vercel.app/api?username=toryostr&show_icons=true&theme=transparent"/>
+</div>
 
+
+</br>
+
+### Profile views counter
+
+[![Viktoriia Ostrishko profile views](https://u8views.com/api/v1/github/profiles/97455174/views/day-week-month-total-count.svg)](https://u8views.com/github/ToryOstr)
