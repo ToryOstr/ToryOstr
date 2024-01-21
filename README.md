@@ -29,10 +29,10 @@ Since then, I fell in love with the world of development, and continued to deepe
 
 ***
 ### My stats
-<div align="center">
-<img float="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toryostr&layout=compact" />
-<img width="27%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ToryOstr&layout=compact"/>
-<img float="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=toryostr&show_icons=true&theme=transparent"/>
+<div align="left">
+<img float="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toryostr&layout=compact" /></br>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ToryOstr&layout=compact"/></br>
+<img float="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=toryostr&show_icons=true&theme=transparent"/>
 </div>
 
 
