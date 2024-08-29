@@ -20,8 +20,6 @@ Since then, I fell in love with the world of development, and continued to deepe
 ### Top projects
 - <a target="_blank" href="https://mentor-lending.netlify.app/">Mentor-lending</a>
   + privacy repository
-- <a target="_blank" href="https://your-weather.space/">🔆Your Weather</a>
-  + <a href="https://github.com/ToryOstr/your_weather">Watch the GitHub repository</a>
 - <a target="_blank" href="https://timer-with-history.netlify.app/">⏲️Timer with history</a>
   + <a href="https://github.com/ToryOstr/timer-app">Watch the GitHub repository</a>
 - <a target="_blank" href="https://toryostr.github.io/travel/"><img alt="Travel portal" src='https://github.com/ToryOstr/travel/blob/master/images/icons/logo.svg' height="15" width="15"/>Travel portal</a>
