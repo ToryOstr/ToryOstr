@@ -28,13 +28,6 @@ Since then, I fell in love with the world of development, and continued to deepe
   + <a href="https://github.com/ToryOstr/travel.git">Watch the GitHub repository<a/>
 
 ***
-### My stats
-<div align="left">
-<img float="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toryostr&layout=compact" /></br>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ToryOstr&layout=compact"/></br>
-<img float="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=toryostr&show_icons=true&theme=transparent"/>
-</div>
-
 
 </br>
 
